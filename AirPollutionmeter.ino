@@ -8,11 +8,11 @@ Adafruit_ADS1015 ads;     /* Use thi for the 12-bit version */
 BlynkTimer timer;
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "e4bb1e7d382c4c209075fb9f01e22ea9";
+char auth[] = "********************";
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "oneplus 5";
-char pass[] = "gaurav2433";
+char ssid[] = "***********";
+char pass[] = "**2433";
 WidgetLCD lcd(V6);
 int air_quality;
 int counter;
